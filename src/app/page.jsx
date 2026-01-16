@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      hello world
+      <h2  className="text-4xl ">Wlecome to Dev Stroy </h2>
     </div>
   );
 }
